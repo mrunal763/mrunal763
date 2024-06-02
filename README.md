@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Web Dev Projects**
 
-- 🌱 I’m currently learning **DSA AND Development Framworks**
+- 🌱 I’m currently learning **DSA and Development Framworks**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
